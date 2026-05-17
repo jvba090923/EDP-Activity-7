@@ -26,6 +26,7 @@ getHeader("About System"); renderSidebar("about");
         <div class="text-slate-500 text-[10px] space-y-2 font-mono uppercase tracking-widest">
             <p>Store Brand: A-Retail Solutions</p>
             <p>Schema Alias: retaildb</p>
+            <p>Developer: Vince Alcayde (vincealcayde2@gmail.com)</p>
             <p>&copy; 2026 A-RETAIL SOLUTIONS</p>
         </div>
     </div>
